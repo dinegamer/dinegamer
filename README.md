@@ -28,12 +28,13 @@ I design and build software systems, analyze data for decision-making, and am ex
 
 ## Selected projects
 
-| Product | What it solves | Status |
+| Project | Description | Stack |
 |---|---|---|
-| **KalanSUP** | University ERP covering academic operations, payments and decision dashboards | Project |
-| **BNDA Queue** | Virtual queue-management concept for banking environments | Prototype |
-| **AgriAI** | Crop recommendations from soil data and AI-assisted plant analysis | Prototype |
-| **ShamsAI Tools** | AI-assisted content repurposing across multiple channels | Prototype |
+| **KalanSUP** | University ERP covering academic operations, payments and decision dashboards | React · Spring Boot · PostgreSQL |
+| [**APEDA Mali**](https://github.com/dinegamer/apeda) | Accessible association website focused on learning difficulties and dyslexia awareness | Next.js · TypeScript · Tailwind |
+| [**AE2C Corporate Website**](https://github.com/dinegamer/cabinetae2c) | Bilingual animated website for an accounting and audit firm | Next.js · Three.js · GSAP |
+| [**BambooLab**](https://github.com/dinegamer/bamboolab) | Immersive interactive presentation for an innovation laboratory | Next.js · Framer Motion |
+| [**Suncrest Scroll Experience**](https://github.com/dinegamer/Suncrest-AnimatedBottle-Scroll) | Scroll-driven product storytelling experiment | HTML · CSS · JavaScript |
 
 ## Data analytics
 
