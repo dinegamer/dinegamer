@@ -30,11 +30,11 @@ I design and build software systems, analyze data for decision-making, and am ex
 
 | Project | Description | Stack |
 |---|---|---|
-| **KalanSUP** | University ERP covering academic operations, payments and decision dashboards | React · Spring Boot · PostgreSQL |
+| [**StoreSup**](https://github.com/dinegamer/hackhaton_dev_frontEnd2) | Full-stack inventory and operations management application | MongoDB · Express · React · Node.js |
+| [**AgritechMali**](https://github.com/dinegamer/agritechMali) | AI experiments for crop recommendation and plant-disease recognition | Python · TensorFlow · Flask · React |
 | [**APEDA Mali**](https://github.com/dinegamer/apeda) | Accessible association website focused on learning difficulties and dyslexia awareness | Next.js · TypeScript · Tailwind |
 | [**AE2C Corporate Website**](https://github.com/dinegamer/cabinetae2c) | Bilingual animated website for an accounting and audit firm | Next.js · Three.js · GSAP |
 | [**BambooLab**](https://github.com/dinegamer/bamboolab) | Immersive interactive presentation for an innovation laboratory | Next.js · Framer Motion |
-| [**Suncrest Scroll Experience**](https://github.com/dinegamer/Suncrest-AnimatedBottle-Scroll) | Scroll-driven product storytelling experiment | HTML · CSS · JavaScript |
 
 ## Data analytics
 
