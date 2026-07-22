@@ -1,6 +1,6 @@
 <div align="center">
 
-![Chamsoudine THIENTA — Software, Data & AI Engineer](assets/shams-github-hero.png)
+![Chamsoudine THIENTA — Software Engineer & Data Analyst](assets/shams-github-hero.jpg)
 
 # Hi, I'm Chamsoudine THIENTA — Shams ☀️
 
